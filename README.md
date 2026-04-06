@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Aniket%20Karmakar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,40:7303c0,80:ec38bc,100:fdeff9&height=240&section=header&text=Ganesh%20Singha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=EC38BC&center=true&vCenter=true&width=760&height=45&lines=Designing+Enterprise+RAG+%26+AI+Systems;Next.js+16+%2B+Spring+Boot+%2B+TypeScript+Fullstack;Industrial+IoT+Platform+Architect;Multilingual+LLM+Pipeline+Engineer;Junior+Executive+Engineer+%40+SEPLe" />
 
