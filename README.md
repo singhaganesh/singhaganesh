@@ -83,18 +83,6 @@ leveling_up: ▸ System Design
 ### ☁️ DevOps & Cloud
 
 [![Skills](https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,nginx,git&perline=8)](https://skillicons.dev)
-## 🐍 Contribution Snake
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/singhaganesh/singhaganesh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/singhaganesh/singhaganesh/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake"
-      src="https://raw.githubusercontent.com/singhaganesh/singhaganesh/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -159,6 +147,19 @@ leveling_up: ▸ System Design
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
+## 🐍 Contribution Snake
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/singhaganesh/singhaganesh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/singhaganesh/singhaganesh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/singhaganesh/singhaganesh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ---
 
 ## 🤝 Let's Connect
