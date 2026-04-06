@@ -61,7 +61,6 @@ leveling_up: ▸ System Design
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -84,7 +83,7 @@ leveling_up: ▸ System Design
 ### ☁️ DevOps & Cloud
 
 [![Skills](https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,nginx,git&perline=8)](https://skillicons.dev)
-
+## 🐍 Contribution Snake
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/singhaganesh/singhaganesh/output/github-contribution-grid-snake-dark.svg" />
