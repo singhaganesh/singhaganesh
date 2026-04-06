@@ -138,11 +138,11 @@ leveling_up: ▸ System Design
 
 |   Layer   | Tech                               |  Status   |
 | :-------: | :--------------------------------- | :-------: |
-|  🖥️ Web   | Next.js · React · TypeScript       | 🟡 Active |
+|  🖥️ Web   | React · JavaScript       | 🟡 Active |
 | ⚙️ Backend | Spring Boot · REST                 | 🟡 Active |
-|  📱 Mobile | Flutter                            | 🟡 Active |
-|  🗄️ Database | PostgreSQL · MongoDB              | ✅ Done  |
-| 🐳 Infra  | Docker · GitHub Actions            | ✅ Done  |
+|  📱 Mobile | Jetpack Compose                            | 🟡 Active |
+|  🗄️ Database | PostgreSQL             | ✅ Done  |
+| 🐳 Infra  | GitHub Actions            | ✅ Done  |
 
 ![Progress](https://img.shields.io/badge/Build_Progress-In_Development-7303c0?style=for-the-badge)
 
