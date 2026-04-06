@@ -30,8 +30,9 @@
 
 ```yaml
 name: Ganesh Singha
-role: Software Developer
-base: India 🇮🇳
+role: Junior Executive Engineer — R&D
+company: Security Engineers Pvt. Ltd.
+base: Kolkata, India 🇮🇳
 
 focus: ▸ Building innovative solutions
   ▸ Full-stack development
